@@ -5,12 +5,11 @@ import SearchBar from "./SearchBar/SearchBar"
 
 const App = () => {
     return (
-       /* <div>
-            <CountButton incrementBy={1} buttonColor = {"blue"}/>
-            <CountButton incrementBy={5} buttonColor = {"red"}/>
-        </div>
-        */
         <div>
+            <CountButton incrementBy={1} buttonColor = {"lightblue"}/>
+            <CountButton incrementBy={5} buttonColor = {"pink"}/>
+        
+        
             <SearchBar />
         </div>
     )
