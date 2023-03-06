@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+/* import React, { useState } from "react"
 import "./CountButton.css"
 
 function CountButton (props) {
@@ -12,6 +12,8 @@ function CountButton (props) {
     const buttonStyles = {
         background: props.buttonColor,
     }
+    
+
     return (
 
         <div>
@@ -23,4 +25,4 @@ function CountButton (props) {
     )
 }
 
-export default CountButton
+export default CountButton */
